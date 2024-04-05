@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802575960993",
+    "project_id": "tach-coff",
+    "storage_bucket": "tach-coff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802575960993:android:f46e112bcfc5d7b2b859e0",
+        "android_client_info": {
+          "package_name": "com.example.rest_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG22BtkQGTg0MElmB3LJInjFH7Y2dBSjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
